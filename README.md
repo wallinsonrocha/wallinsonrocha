@@ -3,7 +3,7 @@
 - ## [Repositório de Estudos](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos
-1. ### [Todo list com React] (https://github.com/wallinsonrocha/todo-list-react)
+1. ### [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
