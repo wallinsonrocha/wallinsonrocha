@@ -2,6 +2,9 @@
 
 - ## [Repositório de Estudos](https://github.com/wallinsonrocha/Estudos)
 
+## Projetos
+1. ### [Todo list com React] (https://github.com/wallinsonrocha/todo-list-react)
+
 <h2 align="center">Contatos</h2>
 <div align="center"> 
   <a href="https://instagram.com/wallinsonrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,21 +29,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallinsonrocha&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallinsonrocha&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  
-
-  
-
-<!--
-**wallinsonrocha/wallinsonrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
