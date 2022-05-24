@@ -1,6 +1,6 @@
 # Olá! Tudo bem? 👋 Eu me chamo Wallinson, tenho 21 anos e sou amante da programação.
 
-- ## [Repositório de Estudos](https://github.com/wallinsonrocha/Estudos)
+- ## [Repositório de estudos e anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos
 1. ### [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
