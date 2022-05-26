@@ -2,8 +2,9 @@
 
 - ## [Repositório de estudos e anotações](https://github.com/wallinsonrocha/Estudos)
 
-## Projetos
+## Projetos em destaque
 1. ### [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
+2. ### [Porfólio básico - Bootcamp TQI](https://github.com/wallinsonrocha/portfolio-basico-TQI-bootcamp)
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
