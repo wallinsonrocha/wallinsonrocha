@@ -3,8 +3,9 @@
 - ## [Repositório de estudos e anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
-1. ### [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
-2. ### [Porfólio básico - Bootcamp TQI](https://github.com/wallinsonrocha/portfolio-basico-TQI-bootcamp)
+### 1. [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
+### 2. [Porfólio básico - Bootcamp TQI](https://github.com/wallinsonrocha/portfolio-basico-TQI-bootcamp)
+### 3. [Banco Java POO](https://github.com/wallinsonrocha/banco-poo)
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
@@ -17,12 +18,13 @@
 <h2 align="center">Linguagens e ferramentas</h2>
 
 <div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Wallinson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wallinson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Wallinson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Wallinson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wallinson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Wallinson-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Wallinson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </div>
 <br/>
 <div align="center">
