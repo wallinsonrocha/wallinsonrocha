@@ -4,6 +4,8 @@
 ### 👨🏼‍🎓 Engenharia da computação - Em curso
 ### 🌱 Estudando atualmente - Django e Python
 
+---
+
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
