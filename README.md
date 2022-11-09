@@ -1,5 +1,9 @@
 # Olá! Tudo bem? 👋 Eu me chamo Wallinson e sou amante da programação.
 
+### 🧑‍💻 Rumo ao Fullstack
+### 👨🏼‍🎓 Engenharia da computação - Em curso
+### 🌱 Estudando atualmente - Django e Python
+
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
@@ -28,6 +32,7 @@
   <img align="center" alt="Wallinson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Wallinson-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Wallinson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Wallinson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 <br/>
 <div align="center">
