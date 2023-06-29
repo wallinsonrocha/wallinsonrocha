@@ -9,12 +9,7 @@
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
-### [Todo list com React](https://github.com/wallinsonrocha/todo-list-react)
-### [My food - em desenvolvimento](https://github.com/wallinsonrocha/myfood_repository)
-### [Clients com Spring](https://github.com/wallinsonrocha/Clients)
-### [Jogo da memória](https://github.com/wallinsonrocha/jogo-da-memoria-bootcamp-TQI)
-### [Réplica museu nacional](https://github.com/wallinsonrocha/replica-museu-nacional)
-### [Réplica notícia cidade](https://github.com/wallinsonrocha/noticias-cidade-replica)
+Atualizando...
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
