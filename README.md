@@ -9,7 +9,7 @@
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
-Atualizando...
+Em atualização :)
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
