@@ -1,8 +1,7 @@
 # Olá! Tudo bem? 👋 Eu me chamo Wallinson e sou amante da programação.
 
 ### 🧑‍💻 Rumo ao Fullstack
-### 👨🏼‍🎓 Engenharia da computação - Em curso
-### 🌱 Estudando atualmente - Django e Python
+### 🌱 Estudando atualmente - Next, Node e Typescript
 
 ---
 
