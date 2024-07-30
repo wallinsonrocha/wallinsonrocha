@@ -1,9 +1,10 @@
 # Olá! Tudo bem? 👋 Eu me chamo Wallinson e sou amante da programação.
 
-### 🧑‍💻 Rumo ao Fullstack
+### 🧑‍💻 Desenvolvedor Front-end
 ### 🌱 Estudando atualmente - Next, Node e Typescript
 
 ---
+
 Desde o fim do ensino médio, venho me interessando por programação devido às diversas possibilidades de criação (como sistemas, landingp ages, programas, aplicações). Esse interesse me motivou a estudar a área.
 
 Através da DNC, aprofundei os meus conhecimentos no desenvolvimento full stack. Durante a formação aprendi como utilizar e aprimorar o desenvolvimento web utilizando HTML, JS, CSS e React. Além do frontend me especializei em backend utilizando ExpressJs.
@@ -11,7 +12,9 @@ Através da DNC, aprofundei os meus conhecimentos no desenvolvimento full stack.
 Meu principal objetivo é ingressar no mercado de tecnologia como desenvolvedor Frontend para ganhar mais experiência e alcançar as minhas metas profissionais.
 
 Estou em busca de novos desafios e projetos a fim de construir uma carreira mais sólida como desenvolvedor web. Se você está procurando por um desenvolvedor para compor a sua equipe ou trabalhar em um projeto pessoal, entre em contato comigo. Garanto que, juntos, podemos criar soluções inovadoras e eficientes que atendam às suas necessidades e superem as expectativas dos seus clientes.
+
 ---
+
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
