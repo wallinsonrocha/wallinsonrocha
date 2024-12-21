@@ -18,7 +18,9 @@ Estou em busca de novos desafios e projetos a fim de construir uma carreira mais
 - ## [Repositório de anotações](https://github.com/wallinsonrocha/Estudos)
 
 ## Projetos em destaque
-Em atualização :)
+- ## [Architecture Designs](https://github.com/wallinsonrocha/design-architecture)
+- ## [To do List NextTs](https://github.com/wallinsonrocha/nextts-to-do-list)
+- ## [Portfólio Dev](https://github.com/wallinsonrocha/dev-portf-lio)
 
 <h2 align="center">Contatos</h2>
 <div align="center"> 
@@ -37,7 +39,6 @@ Em atualização :)
   <img align="center" alt="Wallinson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wallinson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Wallinson-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Wallinson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="Wallinson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 <br/>
