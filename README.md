@@ -7,7 +7,7 @@
 
 Desde o fim do ensino médio, venho me interessando por programação devido às diversas possibilidades de criação (como sistemas, landingp ages, programas, aplicações). Esse interesse me motivou a estudar a área.
 
-Através da DNC, aprofundei os meus conhecimentos no desenvolvimento full stack. Durante a formação aprendi como utilizar e aprimorar o desenvolvimento web utilizando HTML, JS, CSS e React. Além do frontend me especializei em backend utilizando ExpressJs.
+Através da DNC, aprofundei os meus conhecimentos no desenvolvimento full stack. Durante a formação aprendi como utilizar e aprimorar o desenvolvimento web utilizando HTML, JS, CSS e React. Além do frontend estou estudando backend utilizando ExpressJs para alcançar minha meta como Full Stack.
 
 Meu principal objetivo é ingressar no mercado de tecnologia como desenvolvedor Frontend para ganhar mais experiência e alcançar as minhas metas profissionais.
 
